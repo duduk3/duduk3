@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Duduk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduk3&show_icons=true&theme=dark&count_private=true)](https://github.com/duduk3/github-readme-stats)
 
-
-<a href="https://github.com/duduk3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duduk3&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/duduk3/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duduk3&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduk3&layout=compact)](https://github.com/duduk3/github-readme-stats)
