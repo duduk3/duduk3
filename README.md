@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Duduk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduk3&show_icons=true&theme=dark&count_private=true)](https://github.com/duduk3/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduk3&layout=compact)](https://github.com/duduk3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduk3&layout=compact&theme=dark)](https://github.com/duduk3/github-readme-stats)
