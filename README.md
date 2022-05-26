@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[Linkedin](https://www.linkedin.com/in/eduardo-a-ferreira/)
+I like working on projects developing with react. I'm learning next and typescript too. 
+
+Here we go!!! You can see more about me in [Linkedin](https://www.linkedin.com/in/eduardo-a-ferreira/).
+
+
 
 <!--
 **duduk3/duduk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
