@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Eduardo, 44 years old, and I'm open for a new job.
 
 I like working on projects developing with react. I'm learning next and typescript too. 
 
-Here we go!!! You can see more about me in [Linkedin](https://www.linkedin.com/in/eduardo-a-ferreira/).
+Here we go!!! You can see more about me on [Linkedin](https://www.linkedin.com/in/eduardo-a-ferreira/).
 
 
 
