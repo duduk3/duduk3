@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Eduardo ank I'm a FullStack Developer.
+I'm Eduardo and I'm a FullStack Developer.
 
 I currently develop projects with React and Nodejs. I like Next and Typescript too. 
 
