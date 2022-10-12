@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I'm Eduardo, 44 years old, and I'm open for a new job.
+I'm Eduardo ank I'm a FullStack Developer.
 
-I like working on projects developing with react. I'm learning next and typescript too. 
+I currently develop projects with React and Nodejs. I like Next and Typescript too. 
 
 Here we go!!! You can see more about me on [Linkedin](https://www.linkedin.com/in/eduardo-a-ferreira/).
 
